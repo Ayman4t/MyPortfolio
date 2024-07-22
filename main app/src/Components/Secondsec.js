@@ -1,5 +1,5 @@
 import React from "react";
-import img from './How-to-communicate-effectively.png'
+import img from './../images/How-to-communicate-effectively.png'
 
 const Secondsec = () => {
     return (
